@@ -27,7 +27,7 @@ The analysis uses four related tables:
 └── README.md
 ```
 
-## 🟢 Basic Queries (Basic Project.sql)
+## 🟢 Basic Queries ( https://github.com/ramansharmadba-lang/Pizza_Sales_Analysis-Using-My-SQL/blob/main/Basic%20Project.sql)
 
 1. Total number of orders placed
 2. Total revenue generated from pizza sales
