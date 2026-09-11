@@ -35,7 +35,7 @@ The analysis uses four related tables:
 4. Most commonly ordered pizza size
 5. Top 5 most ordered pizza types by quantity
 
-## 🟡 Intermediate Queries (`Intermediate.sql`)
+## 🟡 Intermediate Queries (https://github.com/ramansharmadba-lang/Pizza_Sales_Analysis-Using-My-SQL/blob/main/Intermediate.sql)
 
 1. Total quantity ordered per pizza category (using JOINs)
 2. Distribution of orders by hour of the day
@@ -43,7 +43,7 @@ The analysis uses four related tables:
 4. Average quantity of pizzas ordered per day
 5. Top 3 most ordered pizza types based on revenue
 
-## 🔴 Advanced Queries (`ADVANCE.sql`)
+## 🔴 Advanced Queries (https://github.com/ramansharmadba-lang/Pizza_Sales_Analysis-Using-My-SQL/blob/main/ADVANCE.sql)
 
 1. Percentage contribution of each pizza type to total revenue
 2. Cumulative revenue over time using window functions (`SUM() OVER`)
