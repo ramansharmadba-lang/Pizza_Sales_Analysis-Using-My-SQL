@@ -27,7 +27,7 @@ The analysis uses four related tables:
 └── README.md
 ```
 
-## 🟢 Basic Queries (`Basic_Project.sql`)
+## 🟢 Basic Queries (Basic Project.sql)
 
 1. Total number of orders placed
 2. Total revenue generated from pizza sales
